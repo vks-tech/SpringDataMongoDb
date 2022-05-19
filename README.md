@@ -21,3 +21,7 @@
 ### Spring Data MongoDB | Part 5 | Overview of Native Queries using @Query and Operators
 
 [![VKS Tech](https://raw.githubusercontent.com/vks-tech/SpringDataMongoDb/master/src/main/resources/static/part5-thumbnail.jpg)](https://www.youtube.com/watch?v=-7ojzw3Crvc)
+
+### Spring Data MongoDB | Part 6 | CRUD APIs using MongoTemplate
+
+[![VKS Tech](https://raw.githubusercontent.com/vks-tech/SpringDataMongoDb/master/src/main/resources/static/part6-thumbnail.jpg)](https://www.youtube.com/watch?v=UdU_hRFTiDg)
